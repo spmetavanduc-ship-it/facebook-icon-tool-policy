@@ -36,7 +36,7 @@ Video hướng dẫn chi tiết: [Tại Đây](https://www.youtube.com/watch?v=8
 
 ## 🔗 Liên kết quan trọng
 - **Chính sách Quyền riêng tư**: [Privacy Policy](https://spmetavanduc-ship-it.github.io/facebook-icon-tool-policy/privacy-policy.html)  
-- **Hỗ trợ**: [mailto:spmeta.vanduc@gmail.com](mailto:spmeta.vanduc@gmail.com)  
+- **Hỗ trợ**: spmeta.vanduc@gmail.com
 
 ---
 
